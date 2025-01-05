@@ -1,0 +1,15 @@
+{
+  "name": "uniswap_monitor",
+  "version": "1.0.0",
+  "main": "uniswap_monitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "web3": "^4.16.0"
+  }
+}
